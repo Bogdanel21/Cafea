@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Gravitas+One&family=Kaisei+HarunoUmi&display=swap');
+
+div {
+
+width: 70%;
+
+}
+h3{
+
+    font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 65px;
+  color: #F5F5DC;
+}
+.paragraf{
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: italic;
+   font-size: 20px;
+  margin-top: 7%;
+  color: #F5F5DC;
+
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: rgb(199, 155, 90);
+    color: white;
+border-radius: 5px;
+display: inline-block;
+margin-left: 6%;
+}
+a:hover{
+    background-color: rgb(180, 123, 77);
+    
+}
+.abc {
+
+    margin-left: 5%;
+}
+body{
+    background-image: url("..//images/img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.fbs {
+    margin-top: 10%;
+}
